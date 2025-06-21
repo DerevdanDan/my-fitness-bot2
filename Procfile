@@ -1,0 +1,1 @@
+worker: python SportChallangeDerevo_upgrade_bot.py
